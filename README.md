@@ -1,6 +1,6 @@
 # create-svelte
 
-## Generate static site using svelte SSG
+## Generate static site using svelte  SSG
 
 To assist you in creating a static webpage for GitHub Pages using Svelte, we have developed a template for you: [ShaokangJiang/svelte-template (github.com)](https://github.com/ShaokangJiang/svelte-template).
 
