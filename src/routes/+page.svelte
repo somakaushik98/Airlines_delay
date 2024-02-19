@@ -8,7 +8,7 @@
 	onMount(async () => {
 	  try {
 		// Replace 'result_data_final.json' with the correct path to your JSON data
-		data = await d3.json('result_data_final.json');
+		data = await d3.json('%sveltekit.assets%/result_data_final.json');
 	  } catch (error) {
 		console.error('Failed to load data:', error);
 	  }
